@@ -1,0 +1,2 @@
+# The-Resonance-Space-Between-Biwa-and-Cricket-An-Acoustic-System-Rooted-in-Natural-Harmonic-Series
+FFT analysis of biwa and cricket reveals interlocked frequencies: cricket tone forms a perfect fifth below biwa's sawari harmonic (5,300 Hz band) on a 17-limit grid. This supports an ecoacoustic hypothesis: cricket microtones align with 13th–17th partials of low environmental rumbles (wind, footsteps), while grass friction acts as nature's sawari.
